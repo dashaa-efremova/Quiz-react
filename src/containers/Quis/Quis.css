@@ -1,0 +1,14 @@
+html {
+    background: bisque;
+}
+.Quiz {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    flex-grow: 1;
+    width: 100%;
+}
+
+.QuizWraper {
+    width: 600px;
+}
